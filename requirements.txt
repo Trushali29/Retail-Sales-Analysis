@@ -1,5 +1,4 @@
 dash==3.3.0
-dash_ag_grid==32.3.2
 Flask==3.1.2
 ipykernel==6.29.5
 ipython==9.0.1
