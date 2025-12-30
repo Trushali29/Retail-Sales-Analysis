@@ -2,6 +2,8 @@
  # <center>RETAIL SALES ANALYTICS </center>
 
  <center><h4>Analyse Promotions and Provide Tangible Insights to Sales Director</h4></center>
+**Check out**
+Dashboard - https://trushalichawda.pythonanywhere.com/
 
 **Domain**: FMCG
 
