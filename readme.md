@@ -3,9 +3,11 @@
 
  <center><h4>Analyse Promotions and Provide Tangible Insights to Sales Director</h4></center>
 
-**Check out**
 
-Dashboard - https://trushalichawda.pythonanywhere.com/
+**Live Dashboard** - https://trushalichawda.pythonanywhere.com/
+**SQL Analysis** https://github.com/Trushali29/Retail-Sales-Analysis/blob/main/main.ipynb
+
+-main.ipynb
 
 **Domain**: FMCG
 
