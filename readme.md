@@ -21,20 +21,20 @@ Which promotions did not perform well ?
 This analysis will help them make informed decisions for the next promotional cycle.
  
  ## 🛍️ Incremental Revenue
-    Incremental revenue is the additional income a business generates from a specific activity, such as a new product launch or marketing campaign. It is calculated by subtracting the baseline revenue (without the new activity) from the total revenue with the activity. This metric helps businesses measure the financial impact of a change, allowing them to assess its effectiveness and return on investment (ROI). 
+Incremental revenue is the additional income a business generates from a specific activity, such as a new product launch or marketing campaign. 
+It is calculated by subtracting the baseline revenue (without the new activity) from the total revenue with the activity. 
+This metric helps businesses measure the financial impact of a change, allowing them to assess its effectiveness and return on investment (ROI). 
 
 
 ## 🛍️ Incremental Sold Units (ISU)
-    Incremental Units — represent the additional units sold as a direct result of a specific marketing effort or promotion, above what would have been sold under normal conditions. 
-    ISU is a key performance indicator (KPI) used to measure the effectiveness and return on investment (ROI) of marketing campaigns, discounts, or promotional activities.
-   
-   
-   Incremental Units (ISU) = Actual Promo Units - Baseline Units
-   
-   Where,
+Incremental Units — represent the additional units sold as a direct result of a specific marketing effort or promotion, above what would have been sold under normal conditions. 
+ISU is a key performance indicator (KPI) used to measure the effectiveness and return on investment (ROI) of marketing campaigns, discounts, or promotional activities. 
 
-   **Actual Promo Units** → Total units sold during the promotional period  
-   **Baseline Units** → Expected units that would have been sold during the same period *without* any promotions or campaigns
+Incremental Units (ISU) = Actual Promo Units - Baseline Units
+Where,
+
+**Actual Promo Units** → Total units sold during the promotional period  
+**Baseline Units** → Expected units that would have been sold during the same period *without* any promotions or campaigns
 
 ## Store Performance Analysis
 
