@@ -40,7 +40,7 @@ Where,
 
 **1. Which are the top 10 stores in terms of Incremental Revenue (IR) generated from the promotions?**
   
-   Mostly stores from Bengaluru, Chennai and Mysuru generated highest revenue in range of 5.0 - 6.50 Million INR after promotions and campaigns. While other cities did generated revenue but there revenue and quantity unity sold even after promotions were less.
+   Mostly stores from Bengaluru, Chennai and Mysuru generated highest revenue in range of 5.0 - 6.50 Million INR after promotions and campaigns. While other cities did generated revenue but there revenue and quantity unit sold after promotions were less.
 
 **2. Which are the bottom 10 stores when it comes to Incremental Sold Units (ISU) during the promotional period ?**
   
@@ -52,7 +52,7 @@ Where,
 
 **4. What are the top 2 promotion types that resulted in the highest Incremental Revenue ?**
    
-   500 Cashback (122.64 million) and Buy One Get One Free (69.32 million) promotion type were highest.
+   500 Cashback (122.64 million) and Buy One Get One Free (69.32 million) promotion type were contributed highest in terms of IR generation.
 
 **5. What are the bottom 2 promotion types in terms of their impact on Incremental Sold Units ?**
    
@@ -60,12 +60,12 @@ Where,
 
 **6. Is there a significant difference in the performance of discount-based promotions verse BOGOF or Cashback promotions ?**
    
-   Cashback and BOGOF has generated more revenue after promotion and sold more products then discount based promotions.
+   Cashback and BOGOF has generated more revenue after promotions and sold more products then discount based promotions.
    Discount based promotions achieved only 7.34 % of Incremental Revenue and 12.6 % of Incremental Sold Units. 
 
 **7. Which Promotions strike the best balance between Incremental Sold Units and Maintaining healthy margins ?**
    
-   Offers such as 33% OFF, 500 Cashback seems to have a better promotions balance
+   Offers such as 33% OFF, 500 Cashback seems to have a better promotions balance.
 
 **8. Which Product categories saw the most significant lift in sales from the promotions ?**
    
