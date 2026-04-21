@@ -38,15 +38,15 @@ This analysis will help them make informed decisions for the next promotional cy
 
 ## Store Performance Analysis
 
-### 1. Which are the top 10 stores in terms of Incremental Revenue (IR) generated from the promotions?
+#### 1. Which are the top 10 stores in terms of Incremental Revenue (IR) generated from the promotions?
   
    Mostly stores from Bengaluru, Chennai and Mysuru generated highest revenue in range of 5.0 - 6.50 Million INR after promotions and campaigns. While other cities did generated revenue but their revenue and quantity unity sold even after promotions were less.
 
-### 2. Which are the bottom 10 stores when it comes to Incremental Sold Units (ISU) during the promotional period ?
+#### 2. Which are the bottom 10 stores when it comes to Incremental Sold Units (ISU) during the promotional period ?
   
    Stores of cities such as mangalore, visahkapatnam and vijayawada had achieved less revenue of around  4-6 Million INR and sold around 1000 - 3050 units which is lowest as compared to other states. 
 
-### 3. How does the performance of stores vary by city? Are there any common characteristics among the top-performing stores that could be leveraged across other stores ?
+#### 3. How does the performance of stores vary by city? Are there any common characteristics among the top-performing stores that could be leveraged across other stores ?
 
   Metropolitan cities like Bengaluru (10 stores, ~5M revenue per store) and Chennai (8 stores, ~5M revenue per store) shows the highest revenue generation.
   Other cities like Mysuru(4 stores, ~4.72 revenue per store) and Madurai(4 stores, ~4.09 revenue per store) has made more impact than cities with store count 5.
@@ -57,15 +57,15 @@ This analysis will help them make informed decisions for the next promotional cy
 
 **The recommendation would be to invest in promotions of BOGOF and 500 Cashback in cities with least IR.**
 
-### 4. What are the top 2 promotion types that resulted in the highest Incremental Revenue ?
+#### 4. What are the top 2 promotion types that resulted in the highest Incremental Revenue ?
    
    500 Cashback (122.64 million) and Buy One Get One Free (69.32 million) promotion type were highest.
 
-### 5. What are the bottom 2 promotion types in terms of their impact on Incremental Sold Units ?
+#### 5. What are the bottom 2 promotion types in terms of their impact on Incremental Sold Units ?
    
    25% OFF (-5717 Units) and 50% OFF (6931 Units) has shown a worst imapct on Incremental Sold Units. 
 
-### 6. Is there a significant difference in the performance of discount-based promotions versus BOGOF or Cashback promotions ?
+#### 6. Is there a significant difference in the performance of discount-based promotions versus BOGOF or Cashback promotions ?
 
   Below stats show that Discount based promotions performs poorly in every city with only a 7.34% of revenue share. 
   
@@ -80,7 +80,7 @@ This analysis will help them make informed decisions for the next promotional cy
 | Discount | ₹1.52Cr | 7.34% | 12.57% |
 
 
-### 7. Which Promotions strike the best balance between Incremental Sold Units and Maintaining healthy margins ?
+#### 7. Which Promotions strike the best balance between Incremental Sold Units and Maintaining healthy margins ?
    Based on the scatter plot mention below, BOGOF shows high volume, lower revenue per unit, 500 Cashback = high revenue, lower volume, 33% OFF = decent balance but not exceptional and 25% and 50% OFF low promotional contribution. 
    
    This might be since consumer shows interset in getting free things in BOGOF which sells more units but generates less revenue. Also 500 Cashback might work for expensive products sales. 
@@ -90,11 +90,11 @@ This analysis will help them make informed decisions for the next promotional cy
 ![alt text](image.png)
 
 
-### 8. Which Product categories saw the most significant lift in sales from the promotions ?
+#### 8. Which Product categories saw the most significant lift in sales from the promotions ?
    
    Grocery & Staples (119K ISU), Combo 1 (40K ISU) and Home Appliances (38K ISU) shows significant lift in sales from promotions.
 
-### 9. Are there specific products that respond exceptionally well or poorly to promotions ?
+#### 9. Are there specific products that respond exceptionally well or poorly to promotions ?
   
   For festive seasons like diwali and Sankranti, products like Farm Atta Chakki (1.8M INR and 48950 ISU ), Sunflower Oil(8.8M INR  and 43169 ISU ), Home Essential_8 Product Combo (12.2M INR and 40881 ISU ) plays a essential role since these are the things consumers need. These products are always high in demand which generates more revenue. 
   
@@ -123,7 +123,7 @@ This analysis will help them make informed decisions for the next promotional cy
 | 6     | Atliq_Fusion_Container_Set_of_3                | Home Care            | -305025.0           | -735                   |
 | 11    | Atliq_Scrub_Sponge_For_Dishwash                | Home Care            | -42735.0            | -777                   |
 
-### 10. What is the correlation between product category and promotion type effectiveness ?
+#### 10. What is the correlation between product category and promotion type effectiveness ?
 
 BOGOF in combo with Grocery & Staples(275% IR rate), Home Appliances(265% IR rate), Home Care(257.6% IR rate) give a boost store performance. 
 Combo1 + 500 Cashback performs better and can be best combinations for future festive too. 33% OFF did a decent work in Grocery & Staples (42.87% IR rate).  
@@ -157,7 +157,7 @@ To gain more revenue out of this in next festive season excluding 25% OFF others
 
 ## AD-HOC Queries
 
-### 1. Provide a list of products with a base price greater than 500 and that are featured in promo type of 'BOGOF'. This information will help us in identifying a high-value products that are currently been heavily discounted, which can be useful for evaluating our pricing and promotions strategies.
+#### 1. Provide a list of products with a base price greater than 500 and that are featured in promo type of 'BOGOF'. This information will help us in identifying a high-value products that are currently been heavily discounted, which can be useful for evaluating our pricing and promotions strategies.
 
 | product_name                       | base_price |
 |------------------------------------|------------|
@@ -165,7 +165,7 @@ To gain more revenue out of this in next festive season excluding 25% OFF others
 | Atliq_waterproof_Immersion_Rod     | 1020       |
 
 
-### 2. Generate a report that provides an overview of the number of stores in each city. The results will be sorted in descending order of store counts, allowing us to identify the cities with the highest store presence. The report includes two essential fields: city and store count, which will assist in optimizing our retail operations.
+#### 2. Generate a report that provides an overview of the number of stores in each city. The results will be sorted in descending order of store counts, allowing us to identify the cities with the highest store presence. The report includes two essential fields: city and store count, which will assist in optimizing our retail operations.
 
 | city            | store_count |
 |-----------------|-------------|
@@ -181,7 +181,7 @@ To gain more revenue out of this in next festive season excluding 25% OFF others
 | Vijayawada      | 2           |
 
 
-### 3. Generate a report that displays each campaign along with the total revenue generated before and after the campaign ?
+#### 3. Generate a report that displays each campaign along with the total revenue generated before and after the campaign ?
 The report includes three key fields: campaign_name, total_revenue(before_promotion), total_revenue(after_promotion).
 This report should help in evaluating the financial impact of our promotional campaigns. (Display the values in millions).
 
@@ -191,7 +191,7 @@ This report should help in evaluating the financial impact of our promotional ca
 | Diwali        | 82.57                        | 207.46                      |
 
 
-### 4. Produce a report that calculates the Incremental Sold Units (ISU%) for each category during the Diwali Campaign. Additionally, provide rankings for the categories based on their ISU%. 
+#### 4. Produce a report that calculates the Incremental Sold Units (ISU%) for each category during the Diwali Campaign. Additionally, provide rankings for the categories based on their ISU%. 
 
 The report will include three key fields: category, isu%, and rank order. This information will assist in assessing the category_wise success and impact of the diwali campaign on the incremental sales.
 
@@ -204,7 +204,7 @@ The report will include three key fields: category, isu%, and rank order. This i
 | 5          | Grocery & Staples     | 18.05       |
 
 
-### 5. Create a report featuring the Top 5 products, ranked by incremental revenue percentage (IR%), across all campaigns.
+#### 5. Create a report featuring the Top 5 products, ranked by incremental revenue percentage (IR%), across all campaigns.
 
 The report will provide essential information including product_name, category, and ir%. This analysis helps identify the most successful products in terms of incremental revenue across our campaigns, assisting in product optimization.
 
@@ -217,7 +217,7 @@ The report will provide essential information including product_name, category, 
 | Atliq_Home_Essential_8_Product_Combo      | Combo1             | 183.33     | 5          |
 
 
-### Promo Effectiveness on Campaigns
+#### Promo Effectiveness on Campaigns
 
 | campaign_name | promo_type | incremental_revenue |
 |---|---|---|
